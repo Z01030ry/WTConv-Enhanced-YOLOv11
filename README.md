@@ -37,7 +37,7 @@ Dataset source:
 
 https://roboflow.com/
 
-The dataset contains 14 blood cell categories, including:
+The dataset contains 13 blood cell categories, including:
 
 * Abnormal Promyelocyte
 * Atypical Lymphocyte
@@ -52,7 +52,6 @@ The dataset contains 14 blood cell categories, including:
 * Myelocyte
 * Neutrophil
 * Promonocyte
-* Others
 
 Please follow the original dataset license and terms of use.
 
